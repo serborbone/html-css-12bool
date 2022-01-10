@@ -28,3 +28,7 @@
   justify-content: center;
   box-sizing: border-box;
 }
+
+.m-top-20 {
+  margin-top: 20px;
+}

@@ -17,3 +17,14 @@
   align-items: center;
   justify-content: center;
 }
+
+.nested {
+  height: 35px;
+  background-color: #00E165;
+  color: #fff;
+  margin-right: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+}
